@@ -25,3 +25,7 @@ fi # fi means reverse of if, indicating condition end
 yum install mysql -y
 
 VAILDATE
+
+yum install git -y
+
+VALIDATE 
