@@ -1,6 +1,9 @@
 #!/bin/Bbash
 
-echo "Ramesh: Hello Suresh, Good Morning"
-echo "Suresh: Hello Ramesh, Good Morning"
-echo "Ramesh: How are you Suresh"
-echo "Suresh: How are you Ramesh"
+Person1=Ramesh
+Person2=Suresh
+
+echo "$Person1: Hello , $Person2 Good Morning"
+echo "$Person2: Hello $Person1, Good Morning"
+echo "$Person1: How are you $Person2"
+echo "$Person2: How are you $Person1"
