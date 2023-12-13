@@ -1,7 +1,7 @@
 #!/bin/Bbash
 
-Person1=Ramesh
-Person2=Suresh
+Person1=Ram
+Person2=Rahim
 
 echo "$Person1: Hello , $Person2 Good Morning"
 echo "$Person2: Hello $Person1, Good Morning"
